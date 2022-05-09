@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("./library/styles/shelf.css");
+@import url("./library/styles/index.css");
